@@ -4,9 +4,9 @@ Este código realiza una consulta a la dataset de BigQuery del Proyecto COIL2023
 utilizando unas credenciales en JSON. El archivo JSON debe estar en la ruta
 especificada en la variable 'credentials'.
 
-La funcionalidad de este código es el de consultar TODOS los usuarios de la
-tabla 'USUARIO' de la dataset 'Biblioteca' del proyecto en BigQuery 'coil2023'.
-Luego imprime solo los nombres por pantalla.
+La funcionalidad de este código es el de consultar TODOS los ID_PRESTAMO de la
+tabla 'PRESTAMO' de la dataset 'Biblioteca' del proyecto en BigQuery 'coil2023'.
+Luego los imprime por pantalla.
 """
 
 from google.cloud import bigquery
