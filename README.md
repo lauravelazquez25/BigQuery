@@ -5,6 +5,7 @@ Gestión de Biblioteca.
 Una biblioteca está interesada en automatizar la gestión de préstamos, para esto se pide realizar lo siguiente:
 
 Estudiante 1:
+==
 
 Diseñar el procesamiento de los PRÉSTAMOS:
 
@@ -29,6 +30,7 @@ Tenga en cuenta las Relaciones:
 ●Un evento puede tener varios préstamos asociados, y un préstamo puede estar relacionado con un evento (por ejemplo, eventos de promoción de lectura). 
 
 Estudiante 2:
+==
 
 Diseñar el procesamiento de los USUARIOS:
 
@@ -49,6 +51,7 @@ varios préstamos activos.
 ● Un usuario es afiliado a una membresía, y a una membresía pueden afiliarse muchos usuarios.
 
 Estudiante 3:
+==
 
 Diseñar el procesamiento de los EMPLEADOS:
 
@@ -70,6 +73,7 @@ realizar varios préstamos.
 organizar varios eventos.
 
 Todos:
+==
 
 ● Elaborar el Diseño de Altas, Bajas, Modificaciones y Consultas de la
 Biblioteca. Asimismo, deben integrar las tres partes para obtener un diseño
